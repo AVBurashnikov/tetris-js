@@ -1,6 +1,6 @@
-import Game from './modules/game.js';
-import View from './modules/view.js';
-import Controller from './modules/controller.js';
+import Game from './modules/game';
+import View from './modules/view';
+import Controller from './modules/controller';
 import './index.html';
 import './style.css';
 
